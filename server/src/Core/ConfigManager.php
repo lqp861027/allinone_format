@@ -36,6 +36,8 @@ class ConfigManager
 
     // link_type 的 key 值
     private $linkTypeKey = [
+        'mgtv',
+        'nptv',
         'gaoma',
         'itv',
         'migu',
@@ -56,10 +58,12 @@ class ConfigManager
         'link_output_jump' => true, // 是否输出跳转链接
         'link_output_desc' => true, // 是否输出频道描述
         'link_type' => [
-            'gaoma' => true,      // 高码频道
+            'mgtv' => true,        // mgtv
+            'nptv' => true,        // nptv
+            'gaoma' => true,       // 高码频道
             'itv' => true,        // itv 频道
             'migu' => true,       // 咪咕频道
-            'bptv' => true,        // bptv 频道
+            'bptv' => true,       // bptv 频道
             'slive' => true,      // 直播频道
             'gdcucc' => true,     // 广电频道
             'cloudfront' => true, // CDN 频道
