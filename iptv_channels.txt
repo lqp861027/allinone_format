@@ -1,0 +1,627 @@
+﻿列表更新时间,#genre#
+2025-08-15 20:03:15,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/time.mp4
+4K频道,#genre#
+4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
+4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
+zonghe,#genre#
+ 24官频陪你一起看,https://mursor.ottiptv.cc/yy/1351186084
+ 举起手来-惊险抗日,https://mursor.ottiptv.cc/yy/1382736877
+ 武林外传,https://mursor.ottiptv.cc/yy/1355652820
+ 少年包青天,https://mursor.ottiptv.cc/yy/1356043677
+ 超精彩武打场景,https://mursor.ottiptv.cc/yy/1354936131
+ 【林正英经典】玄幻电影,https://mursor.ottiptv.cc/yy/1462895099
+ 【新三国】萌儿陪看,https://mursor.ottiptv.cc/yy/29216766
+ 林正英-经典电影,https://mursor.ottiptv.cc/yy/34229877
+ 【鹿鼎记】金庸经典,https://mursor.ottiptv.cc/yy/28265277
+ 经典电影 港片枪战,https://mursor.ottiptv.cc/yy/1355076627
+ 晾剑 电视剧,https://mursor.ottiptv.cc/yy/1451866697
+ 雍正王朝,https://mursor.ottiptv.cc/yy/1356043620
+ 济公,https://mursor.ottiptv.cc/yy/1355265814
+ 【战狼3吴京】首播,https://mursor.ottiptv.cc/yy/1456668939
+ 纪晓岚,https://mursor.ottiptv.cc/yy/1354143978
+ 纪晓岚,https://mursor.ottiptv.cc/yy/1382781415
+ 纪晓岚,https://mursor.ottiptv.cc/yy/1352227227
+ 武林外传 超清,https://mursor.ottiptv.cc/yy/21092633
+ 经典鬼片3000部,https://mursor.ottiptv.cc/yy/29460894
+ 地下交通站,https://mursor.ottiptv.cc/yy/1382736795
+ 靓剑,https://mursor.ottiptv.cc/yy/1356043643
+ 勇敢的心 ~24经典好剧,https://mursor.ottiptv.cc/yy/1354744544
+ 正阳门下,https://mursor.ottiptv.cc/yy/1354931580
+ 正阳门下,https://mursor.ottiptv.cc/yy/1382851588
+ 神雕侠侣,https://mursor.ottiptv.cc/yy/1351762426
+ 朵宝陪你看狄仁杰,https://mursor.ottiptv.cc/yy/1353753252
+ 天龙八部,https://mursor.ottiptv.cc/yy/1351814644
+ 绝版电影 港片女鬼,https://mursor.ottiptv.cc/yy/1455988450
+ 绝版电影 港片女鬼,https://mursor.ottiptv.cc/yy/1461579859
+ 惊恐盗暮鬼怪,https://mursor.ottiptv.cc/yy/1382749525
+ 林正英经典,https://mursor.ottiptv.cc/yy/1351505899
+ 李连杰功夫 经典武侠,https://mursor.ottiptv.cc/yy/74613175
+ 【周星驰】搞笑电影,https://mursor.ottiptv.cc/yy/38670875
+ 内在美-伊人有约,https://mursor.ottiptv.cc/yy/1382737892
+ 8090.电影一哥,https://mursor.ottiptv.cc/yy/29197808
+ 经典港片动作搞笑,https://mursor.ottiptv.cc/yy/1459869766
+ 超清鬼片 港片,https://mursor.ottiptv.cc/yy/1335509613
+ 倚天屠龙记高清,https://mursor.ottiptv.cc/yy/1414846486
+ 恐怖诡异墓穴,https://mursor.ottiptv.cc/yy/1382748585
+ 83射雕英雄传,https://mursor.ottiptv.cc/yy/1354210357
+ 【经典抗战剧】,https://mursor.ottiptv.cc/yy/1354806550
+ 倚天屠龙记,https://mursor.ottiptv.cc/yy/33300793
+ 晾剑2超经典,https://mursor.ottiptv.cc/yy/1460662397
+ 雪中悍刀行,https://mursor.ottiptv.cc/yy/1462996362
+ 老卓电影,https://mursor.ottiptv.cc/yy/1354770516
+ 雪豹2,https://mursor.ottiptv.cc/yy/1450496699
+ 喨剑电视剧,https://mursor.ottiptv.cc/yy/1453810838
+ 鬼经典老片,https://mursor.ottiptv.cc/yy/1463783198
+ 笑傲江湖 4K超清,https://mursor.ottiptv.cc/yy/1354282410
+ 五号特工组,https://mursor.ottiptv.cc/yy/1414967772
+ 燕双鹰,https://mursor.ottiptv.cc/yy/1354143942
+ 燕双鹰,https://mursor.ottiptv.cc/yy/1352227153
+ 康熙微服私访记,https://mursor.ottiptv.cc/yy/1352811698
+ 抗战神剧,https://mursor.ottiptv.cc/yy/1507704566
+ 隋唐英雄传,https://mursor.ottiptv.cc/yy/1352475619
+ 狄仁杰,https://mursor.ottiptv.cc/yy/1351755386
+ 赵本山《蓝光版》,https://mursor.ottiptv.cc/yy/32160832
+ 经典鬼片,https://mursor.ottiptv.cc/yy/1460889796
+ 狂飙,https://mursor.ottiptv.cc/yy/1382754187
+ 狂飙,https://mursor.ottiptv.cc/yy/1382627144
+ 薛仁贵传奇,https://mursor.ottiptv.cc/yy/1355260662
+ 动漫,https://mursor.ottiptv.cc/yy/26664495
+ 动漫,https://mursor.ottiptv.cc/yy/1354143938
+ 动漫,https://mursor.ottiptv.cc/yy/1354768831
+ 赵本山《超清版》,https://mursor.ottiptv.cc/yy/1382683959
+ 真实案件系列,https://mursor.ottiptv.cc/yy/1382671124
+ 大家车言论,https://mursor.ottiptv.cc/yy/1382570702
+ 鹊刀门,https://mursor.ottiptv.cc/yy/1355344777
+ 古惑仔,https://mursor.ottiptv.cc/yy/1458015189
+ 我想你了,https://mursor.ottiptv.cc/yy/1353215589
+ 弹幕天团 下饭神剧,https://mursor.ottiptv.cc/yy/23512910
+ 豪哥带我们发财,https://mursor.ottiptv.cc/yy/23402146
+ 打狗棍  4K超清,https://mursor.ottiptv.cc/yy/39736069
+ 知否知否应是绿肥红瘦,https://mursor.ottiptv.cc/yy/21881901
+ 小兵张嘎,https://mursor.ottiptv.cc/yy/1354930225
+ 金牌配角达叔系列,https://mursor.ottiptv.cc/yy/1354888728
+ 欢乐集结号-每天笑不停,https://mursor.ottiptv.cc/yy/1382741642
+ 康熙王朝,https://mursor.ottiptv.cc/yy/1382851583
+ 甜心 正在直播,https://mursor.ottiptv.cc/yy/1454732419
+ 寻秦记-穿越剧经典,https://mursor.ottiptv.cc/yy/1382749900
+ 寻秦记-穿越剧经典,https://mursor.ottiptv.cc/yy/1382851591
+ 大话西游至尊宝,https://mursor.ottiptv.cc/yy/1382851590
+ 神探狄仁杰1,https://mursor.ottiptv.cc/yy/1382851575
+ 神探狄仁杰1,https://mursor.ottiptv.cc/yy/1354930934
+ 宰相刘罗锅,https://mursor.ottiptv.cc/yy/1382745191
+ 宰相刘罗锅,https://mursor.ottiptv.cc/yy/1353892468
+ 动漫《火影疾风传》,https://mursor.ottiptv.cc/yy/1459675153
+ 震撼！国内功夫大片,https://mursor.ottiptv.cc/yy/1382736902
+ 宋小宝小品合集,https://mursor.ottiptv.cc/yy/1354931577
+ 国内玄幻电影-林正英,https://mursor.ottiptv.cc/yy/1354932444
+ 情满四合院,https://mursor.ottiptv.cc/yy/1382851524
+ 情满四合院,https://mursor.ottiptv.cc/yy/1382736848
+ 大家都在看的电视剧,https://mursor.ottiptv.cc/yy/1354930964
+ 二号交通站,https://mursor.ottiptv.cc/yy/1354930965
+ 二号交通站,https://mursor.ottiptv.cc/yy/1382735582
+ 二号交通站,https://mursor.ottiptv.cc/yy/1382851582
+ 情满四合院-高分电视剧,https://mursor.ottiptv.cc/yy/1382735541
+ 新白娘子传奇-女神赵雅芝,https://mursor.ottiptv.cc/yy/1354930969
+ 啊咧,https://mursor.ottiptv.cc/yy/1459243913
+ 迷糊不迷糊 正在直播,https://mursor.ottiptv.cc/yy/1461931969
+ 情满四合院-小人物的悲欢离合,https://mursor.ottiptv.cc/yy/1382851601
+ 爆笑小品大合集,https://mursor.ottiptv.cc/yy/1382736821
+ 封神榜,https://mursor.ottiptv.cc/yy/1353426319
+ 老九门24,https://mursor.ottiptv.cc/yy/1355171357
+ 速度与激情全集,https://mursor.ottiptv.cc/yy/1382749892
+ 【战狼3吴京】独播,https://mursor.ottiptv.cc/yy/37999586
+ 【经典港片】佟瑶,https://mursor.ottiptv.cc/yy/23531261
+ 新主播，求照顾,https://mursor.ottiptv.cc/yy/1382690406
+ 恐怖电影,https://mursor.ottiptv.cc/yy/24066336
+ 赌神 港片 喜剧,https://mursor.ottiptv.cc/yy/1355112116
+ 搞笑经典电影,https://mursor.ottiptv.cc/yy/1351537467
+ 少年包青天第三部,https://mursor.ottiptv.cc/yy/1382736814
+ 少年包青天第三部,https://mursor.ottiptv.cc/yy/1382851540
+ 新白娘子传奇,https://mursor.ottiptv.cc/yy/1354490667
+ 小美美 正在直播,https://mursor.ottiptv.cc/yy/1354143966
+ 经典港片电影,https://mursor.ottiptv.cc/yy/1461889059
+ 经典港片电影,https://mursor.ottiptv.cc/yy/1459801818
+ 【靓剑】乐乐陪看,https://mursor.ottiptv.cc/yy/1352946111
+ 经典电影重温,https://mursor.ottiptv.cc/yy/1382793140
+ 新三国2,https://mursor.ottiptv.cc/yy/1461396681
+ 进来 陪你看动漫,https://mursor.ottiptv.cc/yy/1352866135
+ 玄幻道墓,https://mursor.ottiptv.cc/yy/1459714870
+ 精彩动漫,https://mursor.ottiptv.cc/yy/1420843376
+ 天龙 神雕金庸,https://mursor.ottiptv.cc/yy/1356043609
+ 花千骨,https://mursor.ottiptv.cc/yy/1354943110
+ 西游记后传 蓝光,https://mursor.ottiptv.cc/yy/1353392400
+ 《武林外传》武侠,https://mursor.ottiptv.cc/yy/1394000563
+ 《仙侠》开局无敌了,https://mursor.ottiptv.cc/yy/29600150
+ [火蓝刀锋】,https://mursor.ottiptv.cc/yy/1508456184
+ 天龙神雕经典回忆,https://mursor.ottiptv.cc/yy/68260522
+ 经典动漫,https://mursor.ottiptv.cc/yy/24180320
+ 星爷经典-百看不厌,https://mursor.ottiptv.cc/yy/1382736808
+ 8090年的热血与回忆,https://mursor.ottiptv.cc/yy/1356243352
+ 快来呀好剧在等你,https://mursor.ottiptv.cc/yy/1331686180
+ 夏洛特烦恼-国内电影-喜剧,https://mursor.ottiptv.cc/yy/1354936201
+ 父母爱情,https://mursor.ottiptv.cc/yy/1354926650
+ 父母爱情,https://mursor.ottiptv.cc/yy/1382851594
+ 赌神-发哥,https://mursor.ottiptv.cc/yy/1354889044
+ 流行古装剧—知否知否应是绿肥红瘦,https://mursor.ottiptv.cc/yy/1354936134
+ 张国荣与周润发的兄弟情,https://mursor.ottiptv.cc/yy/1354930961
+ 神探狄仁杰2,https://mursor.ottiptv.cc/yy/1382851146
+ 神探狄仁杰2,https://mursor.ottiptv.cc/yy/1382828767
+ 18动漫,https://mursor.ottiptv.cc/yy/1354076248
+ 鹿鼎记-周星驰版,https://mursor.ottiptv.cc/yy/1354658049
+ 奇缘港台影院,https://mursor.ottiptv.cc/yy/1354889234
+ 绗��叉�婀�,https://mursor.ottiptv.cc/yy/1382851576
+ �逋鞠盗�-国产喜剧,https://mursor.ottiptv.cc/yy/1382736856
+ 越越爱影视,https://mursor.ottiptv.cc/yy/1382736886
+ 炊事班的故事,https://mursor.ottiptv.cc/yy/1382749901
+ 天道-9.2高分好剧,https://mursor.ottiptv.cc/yy/1382735574
+ 炊事班的故事II,https://mursor.ottiptv.cc/yy/1382851579
+ 三国演义【1994】,https://mursor.ottiptv.cc/yy/1354930932
+ 读心神探,https://mursor.ottiptv.cc/yy/1382851589
+ 读心神探,https://mursor.ottiptv.cc/yy/1382736875
+ 金婚,https://mursor.ottiptv.cc/yy/1382828768
+ 金婚,https://mursor.ottiptv.cc/yy/1382736832
+ 士兵突击,https://mursor.ottiptv.cc/yy/1382828766
+ 士兵突击,https://mursor.ottiptv.cc/yy/1382851600
+ 血色浪漫,https://mursor.ottiptv.cc/yy/1354926676
+ 爱笑仙子,https://mursor.ottiptv.cc/yy/1382736838
+ 每天都要快乐哦！,https://mursor.ottiptv.cc/yy/1354930909
+ 你的回忆有我吗,https://mursor.ottiptv.cc/yy/1354889024
+ 郝蕾演绎-情满四合院,https://mursor.ottiptv.cc/yy/1382745089
+ 我的体育老师,https://mursor.ottiptv.cc/yy/1382745169
+ 炊事班的故事III,https://mursor.ottiptv.cc/yy/1382736716
+ 【康熙微服私访记】,https://mursor.ottiptv.cc/yy/1382702247
+ 时光的海,https://mursor.ottiptv.cc/yy/1382736885
+ 鱼美美隋唐英雄传,https://mursor.ottiptv.cc/yy/1355102749
+ 发哥系列,https://mursor.ottiptv.cc/yy/1354888733
+ 鬼片喜剧动作港剧,https://mursor.ottiptv.cc/yy/1355269576
+ 鹿鼎记-高清全集,https://mursor.ottiptv.cc/yy/1382704650
+ 小太阳 正在直播,https://mursor.ottiptv.cc/yy/29067083
+ 娆�涔�棰�,https://mursor.ottiptv.cc/yy/1382851577
+ 鬼片恐怖私家影院,https://mursor.ottiptv.cc/yy/1354209316
+ 少年歌行,https://mursor.ottiptv.cc/yy/1450556636
+ 小爽东北菇凉，求守护,https://mursor.ottiptv.cc/yy/1382609850
+ 战狼3,https://mursor.ottiptv.cc/yy/1454835388
+ 国漫动漫,https://mursor.ottiptv.cc/yy/1354768828
+ 距离你500米,https://mursor.ottiptv.cc/yy/37264974
+ 【新三国】,https://mursor.ottiptv.cc/yy/1382851415
+ 24h唐朝诡实录,https://mursor.ottiptv.cc/yy/1353913646
+ 【新三国】吕布,https://mursor.ottiptv.cc/yy/1382851459
+ 破案港剧,https://mursor.ottiptv.cc/yy/1350670730
+ 《石敢当》六耳猕猴,https://mursor.ottiptv.cc/yy/1394156613
+ 【破案 悬疑 港剧】,https://mursor.ottiptv.cc/yy/1382800083
+ 【新三国】日版,https://mursor.ottiptv.cc/yy/1382851457
+ 泡芙陪你看电影,https://mursor.ottiptv.cc/yy/24407222
+ 电影电影电影电影电影电影,https://mursor.ottiptv.cc/yy/1351496216
+ 老妖私影院,https://mursor.ottiptv.cc/yy/1354952229
+ 军旅剧（回忆经典）,https://mursor.ottiptv.cc/yy/1356306672
+ 动漫奥斯卡正在直播,https://mursor.ottiptv.cc/yy/1382626335
+ 心理追凶-烧脑港剧,https://mursor.ottiptv.cc/yy/1354936207
+ 神医喜来乐,https://mursor.ottiptv.cc/yy/1382714119
+ 24h 我爱我家 纯音频,https://mursor.ottiptv.cc/yy/1356212303
+ 三国演义94年经典版,https://mursor.ottiptv.cc/yy/1354936241
+ 华子系列,https://mursor.ottiptv.cc/yy/1354888726
+ 法证先锋,https://mursor.ottiptv.cc/yy/1354930939
+ 法证先锋,https://mursor.ottiptv.cc/yy/1382851599
+ 恋歌,https://mursor.ottiptv.cc/yy/1382746276
+ 许多多,https://mursor.ottiptv.cc/yy/1382736818
+ 双月之城-国漫,https://mursor.ottiptv.cc/yy/1382736907
+ YY用户,https://mursor.ottiptv.cc/yy/1382736888
+ YY用户,https://mursor.ottiptv.cc/yy/1382745117
+ 欢乐颂,https://mursor.ottiptv.cc/yy/1382735624
+ 成龙系列,https://mursor.ottiptv.cc/yy/1354888751
+ 你最爱的宋小宝,https://mursor.ottiptv.cc/yy/1354936198
+ 风筝,https://mursor.ottiptv.cc/yy/1382828770
+ 单挑荒野第一季,https://mursor.ottiptv.cc/yy/1354933535
+ 欢乐一起看,https://mursor.ottiptv.cc/yy/1354930926
+ 大进军全集：红色系列电影,https://mursor.ottiptv.cc/yy/1382745083
+ 小敏,https://mursor.ottiptv.cc/yy/1382736890
+ 侏罗纪世界-国外科幻大片合集,https://mursor.ottiptv.cc/yy/1382736851
+ 寻秦记,https://mursor.ottiptv.cc/yy/1354658048
+ 流金岁月-经典港剧,https://mursor.ottiptv.cc/yy/1382736891
+ 亲爱的热爱的,https://mursor.ottiptv.cc/yy/1354932433
+ 电影百团大战,https://mursor.ottiptv.cc/yy/1382736871
+ 妖神记,https://mursor.ottiptv.cc/yy/1382745171
+ 野山鹰-影视剧,https://mursor.ottiptv.cc/yy/1354932395
+ 经典大片合集,https://mursor.ottiptv.cc/yy/1382749895
+ 密子君,https://mursor.ottiptv.cc/yy/1382736717
+ 粟裕大将-影视,https://mursor.ottiptv.cc/yy/1354926542
+ 西游记后传,https://mursor.ottiptv.cc/yy/1382736846
+ 甜甜的恋爱 这狗粮我吃了,https://mursor.ottiptv.cc/yy/1354932438
+ 熊出没之探险日记S1-国漫,https://mursor.ottiptv.cc/yy/1354930977
+ 灌篮高手,https://mursor.ottiptv.cc/yy/1382735626
+ 伪装者,https://mursor.ottiptv.cc/yy/1382851593
+ 伪装者,https://mursor.ottiptv.cc/yy/1354936244
+ 变形金刚,https://mursor.ottiptv.cc/yy/1382736803
+ 东海龙棺,https://mursor.ottiptv.cc/yy/1354930968
+ 陪你看电影,https://mursor.ottiptv.cc/yy/1382745084
+ 真心想让你幸福,https://mursor.ottiptv.cc/yy/1382736876
+ 金玉满堂：精彩港剧,https://mursor.ottiptv.cc/yy/1382736881
+ 仙剑奇侠传-神仙姐姐驾到,https://mursor.ottiptv.cc/yy/1382749903
+ 漫威十年老粉福利来了,https://mursor.ottiptv.cc/yy/1354930233
+ 编辑部的故事,https://mursor.ottiptv.cc/yy/1354936120
+ ����������,https://mursor.ottiptv.cc/yy/1382851578
+ 大汉贤后卫子夫,https://mursor.ottiptv.cc/yy/1382735569
+ 超英集结,https://mursor.ottiptv.cc/yy/1382745091
+ 时代剧，黄土高天,https://mursor.ottiptv.cc/yy/1414864180
+ 抹茶少女,https://mursor.ottiptv.cc/yy/1382737888
+ 宫心计,https://mursor.ottiptv.cc/yy/1382828769
+ 宫心计,https://mursor.ottiptv.cc/yy/1354932429
+ 憨豆先生-经典喜剧,https://mursor.ottiptv.cc/yy/1354936239
+ 法证先锋Ⅱ,https://mursor.ottiptv.cc/yy/1354888736
+ 法证先锋Ⅱ,https://mursor.ottiptv.cc/yy/1382851597
+ 速度与激情系列！-精彩大片,https://mursor.ottiptv.cc/yy/1382736911
+ 俺娘田小草,https://mursor.ottiptv.cc/yy/1382741638
+ 最美的青春,https://mursor.ottiptv.cc/yy/1382851530
+ 最美的青春,https://mursor.ottiptv.cc/yy/1382745116
+ 欢乐集结号,https://mursor.ottiptv.cc/yy/1354931582
+ 欢乐集结号,https://mursor.ottiptv.cc/yy/1382735550
+ 小鬼当家-童年回忆,https://mursor.ottiptv.cc/yy/1382745104
+ 易中天品三国,https://mursor.ottiptv.cc/yy/1354931498
+ 溏心风暴之家好月圆,https://mursor.ottiptv.cc/yy/1354888747
+ 非诚勿扰,https://mursor.ottiptv.cc/yy/1382745100
+ 非诚勿扰,https://mursor.ottiptv.cc/yy/1382735583
+ 非诚勿扰,https://mursor.ottiptv.cc/yy/1382745106
+ 法证先锋2,https://mursor.ottiptv.cc/yy/1382736870
+ 农家小菜,https://mursor.ottiptv.cc/yy/1382736894
+ 刑事侦缉档案I,https://mursor.ottiptv.cc/yy/1382851585
+ 舌尖上的中国第一季,https://mursor.ottiptv.cc/yy/1354930952
+ 西游记张卫健版,https://mursor.ottiptv.cc/yy/1354936155
+ 笑声传奇,https://mursor.ottiptv.cc/yy/1382736880
+ 北京爱情故事，心动不打烊,https://mursor.ottiptv.cc/yy/1382744423
+ 陈情令,https://mursor.ottiptv.cc/yy/1382745121
+ 一分钟学道菜,https://mursor.ottiptv.cc/yy/1382736901
+ 宝莲灯前传,https://mursor.ottiptv.cc/yy/1354931631
+ 河山,https://mursor.ottiptv.cc/yy/1382749952
+ 笑傲帮,https://mursor.ottiptv.cc/yy/1382735555
+ 田园生活,https://mursor.ottiptv.cc/yy/1382736898
+ 重生之超级赛亚人,https://mursor.ottiptv.cc/yy/1354936124
+ 国内喜剧,https://mursor.ottiptv.cc/yy/1382736862
+ 国内喜剧,https://mursor.ottiptv.cc/yy/1382851598
+ 国内喜剧,https://mursor.ottiptv.cc/yy/1382735563
+ 动作大片-热血开打,https://mursor.ottiptv.cc/yy/1354936168
+ 渴望,https://mursor.ottiptv.cc/yy/1354930963
+ 永远的经典系列,https://mursor.ottiptv.cc/yy/1354930204
+ 舌尖上的中国第2季,https://mursor.ottiptv.cc/yy/1354930943
+ 转角遇到爱,https://mursor.ottiptv.cc/yy/1382745085
+ 我的前半生,https://mursor.ottiptv.cc/yy/1382735564
+ 上海滩,https://mursor.ottiptv.cc/yy/1382745184
+ 邻家小妹妹,https://mursor.ottiptv.cc/yy/1382735578
+ 辉煌或疯狂-韩剧,https://mursor.ottiptv.cc/yy/1382749902
+ 史诗级科幻电影-阿凡达,https://mursor.ottiptv.cc/yy/1382735577
+ 科幻惊悚片-异形,https://mursor.ottiptv.cc/yy/1382735543
+ 宫锁珠帘,https://mursor.ottiptv.cc/yy/1354926666
+ 远去的飞鹰-影视剧,https://mursor.ottiptv.cc/yy/1354930912
+ 老广的味道 第3季-美食纪录片,https://mursor.ottiptv.cc/yy/1382735565
+ 大江大河2-高分影视推荐,https://mursor.ottiptv.cc/yy/1382736797
+ 无敌县令,https://mursor.ottiptv.cc/yy/1354932390
+ 洪金宝福星系列,https://mursor.ottiptv.cc/yy/1354924839
+ 超越种族的爱恋-暮光之城,https://mursor.ottiptv.cc/yy/1382745179
+ 金星脱口秀-爆笑回归,https://mursor.ottiptv.cc/yy/1382749951
+ 海洋幻梦-泰剧,https://mursor.ottiptv.cc/yy/1382749889
+ 新世界,https://mursor.ottiptv.cc/yy/1382736850
+ 电影黑豹,https://mursor.ottiptv.cc/yy/1382736816
+ 魔幻手机,https://mursor.ottiptv.cc/yy/1382735544
+ 魔幻手机,https://mursor.ottiptv.cc/yy/1382851541
+ 国内高分悬疑剧-风筝,https://mursor.ottiptv.cc/yy/1354931585
+ 我爱我家,https://mursor.ottiptv.cc/yy/1382851580
+ 我爱我家,https://mursor.ottiptv.cc/yy/1382735557
+ 少年包青天美黑之旅,https://mursor.ottiptv.cc/yy/1354936141
+ 探秘中华美食,https://mursor.ottiptv.cc/yy/1354930954
+ 名媛望族-精彩港剧,https://mursor.ottiptv.cc/yy/1354932431
+ TVB收视爆剧-溏心风暴,https://mursor.ottiptv.cc/yy/1382736916
+ 宫心计-港剧-古装,https://mursor.ottiptv.cc/yy/1354933540
+ 无厘头的出处,https://mursor.ottiptv.cc/yy/1354930891
+ 周星星系列,https://mursor.ottiptv.cc/yy/1354888671
+ 超燃警匪片,https://mursor.ottiptv.cc/yy/1382735576
+ 怦然心动,https://mursor.ottiptv.cc/yy/1382745110
+ 人生必看的科幻片,https://mursor.ottiptv.cc/yy/1382745114
+ 高分科幻动作片,https://mursor.ottiptv.cc/yy/1382749948
+ 黄大妮-电视剧,https://mursor.ottiptv.cc/yy/1354930904
+ 本山快乐营,https://mursor.ottiptv.cc/yy/1354933529
+ 复仇者联盟全季,https://mursor.ottiptv.cc/yy/1354936167
+ 回家的诱惑,https://mursor.ottiptv.cc/yy/1354658043
+ 这部剧你居然没看过？,https://mursor.ottiptv.cc/yy/1354932355
+ 大唐双龙传,https://mursor.ottiptv.cc/yy/1354930979
+ 妖神记之黑狱篇,https://mursor.ottiptv.cc/yy/1382745173
+ 老广的味道-美食之旅,https://mursor.ottiptv.cc/yy/1354932375
+ 大江大河-高分影视推荐,https://mursor.ottiptv.cc/yy/1382736806
+ 巩汉林春晚小品合集,https://mursor.ottiptv.cc/yy/1354889035
+ 加勒比海盗系列,https://mursor.ottiptv.cc/yy/1382749914
+ 公主嫁到,https://mursor.ottiptv.cc/yy/1382736915
+ 深海利剑,https://mursor.ottiptv.cc/yy/1382736906
+ 一笑倾城,https://mursor.ottiptv.cc/yy/1382735553
+ 小师妹rua,https://mursor.ottiptv.cc/yy/1382736975
+ 杭小妞,https://mursor.ottiptv.cc/yy/1382736910
+ 我的父亲我的兵,https://mursor.ottiptv.cc/yy/1353413714
+ 国内经典动作电影,https://mursor.ottiptv.cc/yy/1382851522
+ 请回答1988,https://mursor.ottiptv.cc/yy/1354932362
+ 【武林客栈】,https://mursor.ottiptv.cc/yy/1382773728
+ 精彩动作电影享不停,https://mursor.ottiptv.cc/yy/1382736809
+ 保护我家蓉儿,https://mursor.ottiptv.cc/yy/1370293254
+ 高分动作大片-热血出击,https://mursor.ottiptv.cc/yy/1382736909
+ 第8号当铺,https://mursor.ottiptv.cc/yy/1382736905
+ 叶问全集,https://mursor.ottiptv.cc/yy/1382828771
+ 欢乐集结号3,https://mursor.ottiptv.cc/yy/1382736822
+ 如沐春风,https://mursor.ottiptv.cc/yy/1382736810
+ 穿越时空的爱恋,https://mursor.ottiptv.cc/yy/1382735567
+ 缺宅男女-精彩港剧,https://mursor.ottiptv.cc/yy/1382745088
+ 以家人之名,https://mursor.ottiptv.cc/yy/1382736908
+ 电视剧-流金岁月,https://mursor.ottiptv.cc/yy/1382749906
+ 带你领略四季的变化,https://mursor.ottiptv.cc/yy/1354930816
+ 哈利波特全集,https://mursor.ottiptv.cc/yy/1382745105
+ 福贵,https://mursor.ottiptv.cc/yy/1354926537
+ 向日葵的爱恋-泰剧,https://mursor.ottiptv.cc/yy/1382749898
+ 猩球崛起-怪兽片合集,https://mursor.ottiptv.cc/yy/1354930181
+ 你的开心果,https://mursor.ottiptv.cc/yy/1382745113
+ 蔡明春晚小品,https://mursor.ottiptv.cc/yy/1354936177
+ 香港院线大片-最新,https://mursor.ottiptv.cc/yy/1354936242
+ 国产喜剧,https://mursor.ottiptv.cc/yy/1382735584
+ 院线动作大片,https://mursor.ottiptv.cc/yy/1382736900
+ 笑傲江湖 第2季,https://mursor.ottiptv.cc/yy/1382736914
+ 小宝让你乐翻天：6到9集,https://mursor.ottiptv.cc/yy/1354930971
+ 飞虎之潜行极战,https://mursor.ottiptv.cc/yy/1354932420
+ 来自星星的你,https://mursor.ottiptv.cc/yy/1354930976
+ 国产电影-就是闹着玩的,https://mursor.ottiptv.cc/yy/1354931503
+ 萌萌爱追剧,https://mursor.ottiptv.cc/yy/1382745093
+ 超精彩！系列动作电影,https://mursor.ottiptv.cc/yy/1382745096
+ 施公奇案1-欧阳震华,https://mursor.ottiptv.cc/yy/1382749918
+ 岳云鹏宋小宝也来演电影了？,https://mursor.ottiptv.cc/yy/1354926612
+ 24h斗罗大陆,https://mursor.ottiptv.cc/yy/1355171231
+ 国外院线动作大片,https://mursor.ottiptv.cc/yy/1382735570
+ 美国队长史蒂夫,https://mursor.ottiptv.cc/yy/1382736813
+ 叛逆者,https://mursor.ottiptv.cc/yy/1382736868
+ 国外动作大片,https://mursor.ottiptv.cc/yy/1382735540
+ 超炫科幻大片,https://mursor.ottiptv.cc/yy/1382736840
+ 生存大战，尽显人性,https://mursor.ottiptv.cc/yy/1414864186
+ 科幻电影,https://mursor.ottiptv.cc/yy/1354930209
+ 进来 陪你看电视,https://mursor.ottiptv.cc/yy/1353518742
+ 动物世界-领略原始野性,https://mursor.ottiptv.cc/yy/1382743138
+ 哑巴竟然会说话,https://mursor.ottiptv.cc/yy/1354932427
+ 雯子：港剧,https://mursor.ottiptv.cc/yy/1456829119
+ 缺宅男女,https://mursor.ottiptv.cc/yy/1354930937
+ 精彩电视剧，热血老片,https://mursor.ottiptv.cc/yy/1414864181
+ 风味原产地潮汕,https://mursor.ottiptv.cc/yy/1382745178
+ 闲暇观看综艺,https://mursor.ottiptv.cc/yy/1354932379
+ 宋小宝春晚小品合集,https://mursor.ottiptv.cc/yy/1382736866
+ 精彩动作电影,https://mursor.ottiptv.cc/yy/1382736823
+ 嘻嘻熙熙,https://mursor.ottiptv.cc/yy/1382735585
+ 非常保镖-经典港剧,https://mursor.ottiptv.cc/yy/1382736903
+ 强悍“杀猪婆”的励志人生,https://mursor.ottiptv.cc/yy/1354658062
+ 大明王朝,https://mursor.ottiptv.cc/yy/1382736879
+ 大明王朝,https://mursor.ottiptv.cc/yy/1382741637
+ 热门喜剧,https://mursor.ottiptv.cc/yy/1354931495
+ 小米粒Mili,https://mursor.ottiptv.cc/yy/1382736842
+ 法证先锋Ⅲ,https://mursor.ottiptv.cc/yy/1382736802
+ 国内动作大片,https://mursor.ottiptv.cc/yy/1382745176
+ 国内动作大片,https://mursor.ottiptv.cc/yy/1382749917
+ 忠烈杨家将,https://mursor.ottiptv.cc/yy/1382749909
+ 洪大哥系列,https://mursor.ottiptv.cc/yy/1354888743
+ 巾帼枭雄之义海豪情,https://mursor.ottiptv.cc/yy/1382736859
+ 谈判专家,https://mursor.ottiptv.cc/yy/1382735560
+ 小生物的故事,https://mursor.ottiptv.cc/yy/1382736834
+ 苦乐村官,https://mursor.ottiptv.cc/yy/1382736864
+ 惊悚，恐怖欢迎点播,https://mursor.ottiptv.cc/yy/67857780
+ 科幻片：来看神奇的地球,https://mursor.ottiptv.cc/yy/1354930897
+ 外国科幻大片,https://mursor.ottiptv.cc/yy/1382747628
+ 国产大片电影,https://mursor.ottiptv.cc/yy/1354926655
+ 飓风营救,https://mursor.ottiptv.cc/yy/1382735547
+ 燃爆动作片,https://mursor.ottiptv.cc/yy/1382736801
+ 疯狂动漫 正在直播,https://mursor.ottiptv.cc/yy/1353937086
+ 国外科幻,https://mursor.ottiptv.cc/yy/1382736800
+ 末日系列-外国电影合集,https://mursor.ottiptv.cc/yy/1354889019
+ 娘亲舅大,https://mursor.ottiptv.cc/yy/1354932360
+ 神厨小福贵,https://mursor.ottiptv.cc/yy/1382736860
+ 陪你一起看好剧,https://mursor.ottiptv.cc/yy/1354932359
+ 一起来笑吧,https://mursor.ottiptv.cc/yy/1454859415
+ 银河护卫队-国外科幻巨作,https://mursor.ottiptv.cc/yy/1382736815
+ 少年四大名捕,https://mursor.ottiptv.cc/yy/1354936203
+ 学生兵,https://mursor.ottiptv.cc/yy/1354658003
+ 传奇之王-影视剧,https://mursor.ottiptv.cc/yy/1354926735
+ 了不起的萝莉小玲,https://mursor.ottiptv.cc/yy/1382736799
+ 贾玲春晚小品,https://mursor.ottiptv.cc/yy/1382736720
+ 莉萨,https://mursor.ottiptv.cc/yy/1382736918
+ 妖神记-全集,https://mursor.ottiptv.cc/yy/1382735551
+ 本山快乐营-爆笑小品,https://mursor.ottiptv.cc/yy/1354930948
+ 小麦麦,https://mursor.ottiptv.cc/yy/1382735579
+ 原始人大挑战,https://mursor.ottiptv.cc/yy/1382736884
+ 爆笑来袭-小品欢乐集结号,https://mursor.ottiptv.cc/yy/1382735558
+ 欢乐集结号58-70,https://mursor.ottiptv.cc/yy/1382745119
+ 鸭子天空-翱翔于篮球的梦想,https://mursor.ottiptv.cc/yy/1354930894
+ 漫威超级英雄系列,https://mursor.ottiptv.cc/yy/1354932402
+ 施公奇案2-欧阳震华,https://mursor.ottiptv.cc/yy/1382736824
+ Lisa丽莎,https://mursor.ottiptv.cc/yy/1382736807
+ 欢迎光临,https://mursor.ottiptv.cc/yy/1355532933
+ 来看修牛蹄,https://mursor.ottiptv.cc/yy/1382749887
+ 仙灵儿,https://mursor.ottiptv.cc/yy/1382736887
+ 憨豆先生,https://mursor.ottiptv.cc/yy/1354930189
+ 战狼10086,https://mursor.ottiptv.cc/yy/1382773686
+ 漫画解说,https://mursor.ottiptv.cc/yy/1382735568
+ 热血动作电影,https://mursor.ottiptv.cc/yy/1382736804
+ 今晚80后脱口秀,https://mursor.ottiptv.cc/yy/1382745098
+ 你最爱的小龙女-神雕侠侣,https://mursor.ottiptv.cc/yy/1354926637
+ 高分港剧合集,https://mursor.ottiptv.cc/yy/1382735542
+ YUKI雨淇,https://mursor.ottiptv.cc/yy/1382735545
+ 本山快乐营1,https://mursor.ottiptv.cc/yy/1354936209
+ 毒液：致命守护者,https://mursor.ottiptv.cc/yy/1382745095
+ 白鹿原-国内经典战争片,https://mursor.ottiptv.cc/yy/1354931488
+ 动作大片,https://mursor.ottiptv.cc/yy/1354888739
+ 能耐大了！德云社演技爆棚,https://mursor.ottiptv.cc/yy/1354930915
+ 超燃科幻大片：明日边缘,https://mursor.ottiptv.cc/yy/1382736835
+ 空谷幽兰,https://mursor.ottiptv.cc/yy/1382745182
+ 橙子味少女,https://mursor.ottiptv.cc/yy/1382736869
+ 笑场-脱口秀大舞台,https://mursor.ottiptv.cc/yy/1382749913
+ 趣味小品合集,https://mursor.ottiptv.cc/yy/1382736853
+ 百家讲坛-红楼梦篇,https://mursor.ottiptv.cc/yy/1382741639
+ 国家宝藏：历史角色的N重人生,https://mursor.ottiptv.cc/yy/1382735573
+ 钟馗传说,https://mursor.ottiptv.cc/yy/1382736839
+ 今夜欢乐颂,https://mursor.ottiptv.cc/yy/1382735572
+ 最后的日出-末日余晖,https://mursor.ottiptv.cc/yy/1354936136
+ 当旺爸爸-港剧,https://mursor.ottiptv.cc/yy/1354936208
+ 清风入梦,https://mursor.ottiptv.cc/yy/1382745103
+ 热烈的玫瑰,https://mursor.ottiptv.cc/yy/1382736798
+ 风靡全球的谍战片,https://mursor.ottiptv.cc/yy/1382736817
+ 不用加班真开心,https://mursor.ottiptv.cc/yy/1354930924
+ 太空生命？高分科幻电影开播,https://mursor.ottiptv.cc/yy/1382851586
+ 百家讲坛――之明太祖朱元璋,https://mursor.ottiptv.cc/yy/1354936149
+ 不良街区-边缘生存记,https://mursor.ottiptv.cc/yy/1382749890
+ 金牌喜剧班,https://mursor.ottiptv.cc/yy/1354889009
+ 电视剧老酒馆-一坛老酒品百态人生,https://mursor.ottiptv.cc/yy/1382736872
+ 阳小洋 正在直播,https://mursor.ottiptv.cc/yy/1354555195
+ 十亿少女的噩梦,https://mursor.ottiptv.cc/yy/1354921392
+ 百家讲坛-之女皇武则天,https://mursor.ottiptv.cc/yy/1354889015
+ 互换身份-成龙主演电影双龙会,https://mursor.ottiptv.cc/yy/1382735625
+ 国内科幻片来袭,https://mursor.ottiptv.cc/yy/1354930821
+ 活宝夫妻-笑闹日常,https://mursor.ottiptv.cc/yy/1382745124
+ 爱情呼叫等待：相亲奇缘,https://mursor.ottiptv.cc/yy/1382851137
+ 欢乐集结号4,https://mursor.ottiptv.cc/yy/1382736889
+ 热血战争巨作,https://mursor.ottiptv.cc/yy/1382745087
+ 史密斯夫妇-婚姻生活的童话演绎,https://mursor.ottiptv.cc/yy/1382736874
+ 【案发现场】1-4部全集,https://mursor.ottiptv.cc/yy/33567888
+ 什么会让你快乐,https://mursor.ottiptv.cc/yy/54886912
+ 爱丽丝2：镜中奇遇,https://mursor.ottiptv.cc/yy/1354930903
+ 热血抗日电影,https://mursor.ottiptv.cc/yy/1382749907
+ 降魔传-神魔大战,https://mursor.ottiptv.cc/yy/1354932371
+ 『𝙍𝙁』稚七🎥的直播间,https://mursor.ottiptv.cc/yy/1355336008
+ 解放：苏联战争巨片,https://mursor.ottiptv.cc/yy/1354936249
+ 疯狂的契约-荒诞之旅,https://mursor.ottiptv.cc/yy/1382736715
+ 【科幻电影】,https://mursor.ottiptv.cc/yy/1355065896
+ 熊出没之探险日记-森林探险记,https://mursor.ottiptv.cc/yy/1382745122
+ 法证先锋Ⅳ,https://mursor.ottiptv.cc/yy/1354932426
+ 大明风华,https://mursor.ottiptv.cc/yy/1449912492
+ 国外经典—小鬼当家,https://mursor.ottiptv.cc/yy/1354658064
+ 小云云,https://mursor.ottiptv.cc/yy/1382736805
+ 中国味道 第4季-美食纪录片,https://mursor.ottiptv.cc/yy/1382736845
+ 都挺好-电视剧,https://mursor.ottiptv.cc/yy/1382736892
+ 怪医文三块-影视剧,https://mursor.ottiptv.cc/yy/1354936154
+ 一剑开天门,https://mursor.ottiptv.cc/yy/34313906
+ 电影-我说的都是真的,https://mursor.ottiptv.cc/yy/1382749940
+ 揭秘！经典传奇背后的未解之谜,https://mursor.ottiptv.cc/yy/1382736912
+ 老夫少妻搞笑忘年恋,https://mursor.ottiptv.cc/yy/1354932391
+ 巨额来电-诈骗迷局破,https://mursor.ottiptv.cc/yy/1382749953
+ 1930年代经典电影,https://mursor.ottiptv.cc/yy/1356363815
+ 新白娘子4K高清观看,https://mursor.ottiptv.cc/yy/1508902755
+ 国漫 一起看正在直播,https://mursor.ottiptv.cc/yy/1351417866
+ 战狼7吴京退役,https://mursor.ottiptv.cc/yy/1382773714
+ 体验另一种生活！,https://mursor.ottiptv.cc/yy/1354936229
+ 的直播间,https://mursor.ottiptv.cc/yy/1354129442
+ 黑衣人1、2—动作喜剧大片,https://mursor.ottiptv.cc/yy/1354930936
+ 国产动作电影,https://mursor.ottiptv.cc/yy/1382736858
+ 抗日神片，燃爆抗战热血魂,https://mursor.ottiptv.cc/yy/1354926600
+ 魔女狂花-暗黑绽放,https://mursor.ottiptv.cc/yy/1382736719
+ 鹿鼎记,https://mursor.ottiptv.cc/yy/1353852605
+ 致敬星爷致敬经典,https://mursor.ottiptv.cc/yy/1354889048
+ 笑傲江湖-电视剧,https://mursor.ottiptv.cc/yy/1354936128
+ 大明锦衣卫2-锦衣风云,https://mursor.ottiptv.cc/yy/1354936191
+ 先锋之那时青春-热血年代,https://mursor.ottiptv.cc/yy/1382736833
+ 本山快乐营2,https://mursor.ottiptv.cc/yy/1382736718
+ 海王-院线大片,https://mursor.ottiptv.cc/yy/1354936142
+ 反转人生-命运交织,https://mursor.ottiptv.cc/yy/1382735556
+ 太空荒野求生记-火星救援,https://mursor.ottiptv.cc/yy/1354930957
+ 反斗谜局等你破-反斗神偷,https://mursor.ottiptv.cc/yy/1382736917
+ 欧美配音电影！！！,https://mursor.ottiptv.cc/yy/1354693629
+ 悬疑剧-河神,https://mursor.ottiptv.cc/yy/1353413683
+ 小朋友可爱到家了,https://mursor.ottiptv.cc/yy/1354930887
+ 影视小艺,https://mursor.ottiptv.cc/yy/1382737886
+ 明天和你-韩剧,https://mursor.ottiptv.cc/yy/1382749905
+ 真心英雄-无畏前行,https://mursor.ottiptv.cc/yy/1354889042
+ 名不虚传-韩剧,https://mursor.ottiptv.cc/yy/1382749904
+ 24 小时惊悚鬼电影,https://mursor.ottiptv.cc/yy/1356051105
+ 治愈电影阳光小美女-一家人的寻梦之旅,https://mursor.ottiptv.cc/yy/1382736920
+ 天下无贼-纯真守护,https://mursor.ottiptv.cc/yy/1382741640
+ 女医明妃传,https://mursor.ottiptv.cc/yy/1382736861
+ 欢乐集结号2,https://mursor.ottiptv.cc/yy/1354930919
+ 不可能的任务-碟中谍4,https://mursor.ottiptv.cc/yy/1354930967
+ 精武英雄-李连杰主演经典动作片,https://mursor.ottiptv.cc/yy/1382736873
+ 黄渤主演经典电影—斗牛,https://mursor.ottiptv.cc/yy/1382736896
+ 多力特的奇幻冒险-和动物对话,https://mursor.ottiptv.cc/yy/1354930927
+ 马丽主演戏剧片-东北虎,https://mursor.ottiptv.cc/yy/1354936199
+ 王牌特工：特工学院,https://mursor.ottiptv.cc/yy/1354936195
+ 喜剧闹翻天,https://mursor.ottiptv.cc/yy/1382735548
+ 天涯浴血！鎏金岁月！永不褪色的经典热血电视剧,https://mursor.ottiptv.cc/yy/1414828753
+ 霹雳火：速度与激情,https://mursor.ottiptv.cc/yy/1382736895
+ 九层妖塔,https://mursor.ottiptv.cc/yy/1354936116
+ Vicky,https://mursor.ottiptv.cc/yy/1383549704
+ 珍珠港-电影,https://mursor.ottiptv.cc/yy/1354936234
+ 长安汽车UNI-T直播,https://mursor.ottiptv.cc/yy/1349602814
+ 不日成婚：婚恋喜剧,https://mursor.ottiptv.cc/yy/1354936214
+ 勇敢的心：战火爱情,https://mursor.ottiptv.cc/yy/1354932405
+ 燃情岁月,https://mursor.ottiptv.cc/yy/1354926643
+ 许光汉-关于我和鬼变成家人的那件事,https://mursor.ottiptv.cc/yy/1354926671
+ 王的盛宴：楚汉争霸,https://mursor.ottiptv.cc/yy/1354933556
+ 组团上chun wan：喜剧选拔,https://mursor.ottiptv.cc/yy/1382745111
+ 鲛珠传-奇幻之旅,https://mursor.ottiptv.cc/yy/1354936231
+ 鲨口逃生-绝境求生,https://mursor.ottiptv.cc/yy/1354932407
+ 红河谷-爱恨交响曲,https://mursor.ottiptv.cc/yy/1354936181
+ 星际穿越：虫洞冒险,https://mursor.ottiptv.cc/yy/1354930945
+ 天龙八部（国语版）,https://mursor.ottiptv.cc/yy/1382736855
+ 无限复活-张柏芝主演爱情电影,https://mursor.ottiptv.cc/yy/1382745190
+ 匹诺曹：奇幻冒险,https://mursor.ottiptv.cc/yy/1382749912
+ 武术喜剧--醉拳,https://mursor.ottiptv.cc/yy/1382735581
+ 快递惊魂-包裹追踪记,https://mursor.ottiptv.cc/yy/1382736843
+ 夜宴-权谋盛宴,https://mursor.ottiptv.cc/yy/1382745090
+ 最后的武士（普通话）,https://mursor.ottiptv.cc/yy/1382851148
+ 前任攻略：爱情喜剧,https://mursor.ottiptv.cc/yy/1354932409
+ 萌鸡小队S1-国漫,https://mursor.ottiptv.cc/yy/1382736904
+ 笑傲江湖 第1季,https://mursor.ottiptv.cc/yy/1382749896
+ 本山选谁上-喜剧人选拔,https://mursor.ottiptv.cc/yy/1382749878
+ 惊险刺激！国内最新战争大片,https://mursor.ottiptv.cc/yy/1382745189
+ 别那么骄傲-青春错位,https://mursor.ottiptv.cc/yy/1382749910
+ 国外高分大片,https://mursor.ottiptv.cc/yy/1382736867
+ 英伦犯罪喜剧-两杆大烟枪,https://mursor.ottiptv.cc/yy/1354658051
+ 云上日出-破晓时刻,https://mursor.ottiptv.cc/yy/1382736820
+ 港剧里的生活哲学-好日子,https://mursor.ottiptv.cc/yy/1354936217
+ 宇宙护卫队--国漫,https://mursor.ottiptv.cc/yy/1382736837
+ 经典武侠电影-如来神掌,https://mursor.ottiptv.cc/yy/1382749944
+ 小爽儿,https://mursor.ottiptv.cc/yy/1382736819
+ 国产家庭电视剧-如果岁月可回头,https://mursor.ottiptv.cc/yy/1382736883
+ 郑恺主演运动喜剧-超越,https://mursor.ottiptv.cc/yy/1382736863
+ 沉睡魔咒-不一样的童话视觉,https://mursor.ottiptv.cc/yy/1382736849
+ 一条狗的使命1,https://mursor.ottiptv.cc/yy/1382745092
+ 电影兴风作浪系列播放,https://mursor.ottiptv.cc/yy/1382736857
+ 踮起脚尖：职场之恋,https://mursor.ottiptv.cc/yy/1354932397
+ 杨门少年-少年英雄梦,https://mursor.ottiptv.cc/yy/1354936178
+ 猎袭-正义追击,https://mursor.ottiptv.cc/yy/1354936170
+ 超能疯人院,https://mursor.ottiptv.cc/yy/1354932441
+ 超人女友-超级能力的甜蜜爱情,https://mursor.ottiptv.cc/yy/1382736893
+ 陈翔六点半之铁头无敌-搞笑功夫,https://mursor.ottiptv.cc/yy/1354926622
+ 梦华MM,https://mursor.ottiptv.cc/yy/1382736852
+ 红色警戒：二战风云,https://mursor.ottiptv.cc/yy/1382736841
+ 分手木马计,https://mursor.ottiptv.cc/yy/1354936228
+ 风再起时,https://mursor.ottiptv.cc/yy/1354936221
+ 调音师-旋律奇遇,https://mursor.ottiptv.cc/yy/1382749911
+ 小儿难养-影视剧,https://mursor.ottiptv.cc/yy/1382735559
+ 解放终局营救-黎明曙光,https://mursor.ottiptv.cc/yy/1354936160
+ 我的超人女友（普通话）,https://mursor.ottiptv.cc/yy/1354936210
+ 蚁人-微观世界大冒险,https://mursor.ottiptv.cc/yy/1382736913
+ 等待黎明-希望之光,https://mursor.ottiptv.cc/yy/1382735566
+ 陈翔六点半之拳王妈妈,https://mursor.ottiptv.cc/yy/1382851602
+ 四海：少年冒险,https://mursor.ottiptv.cc/yy/1382735552
+ 无间归途-迷途知返,https://mursor.ottiptv.cc/yy/1354936157
+ 24【动漫】正在直播,https://mursor.ottiptv.cc/yy/1350984033
+ 能耐大了第1季,https://mursor.ottiptv.cc/yy/1354930195
+ 24小时循环播电视剧,https://mursor.ottiptv.cc/yy/53320802
+ 星爷经典-影片40部,https://mursor.ottiptv.cc/yy/1414832381
+ 活不起了,https://mursor.ottiptv.cc/yy/37454459
+ 武状元苏乞儿之天降神谕,https://mursor.ottiptv.cc/yy/1382745094
+ 神探狄仁杰,https://mursor.ottiptv.cc/yy/38338029
+ 港剧：银楼金粉,https://mursor.ottiptv.cc/yy/1354930984
+ 紫霞仙子被揍了,https://mursor.ottiptv.cc/yy/1382656234
+ 蜀山传：剑仙传奇,https://mursor.ottiptv.cc/yy/1382736825
+ 重温龙腾TV影院,https://mursor.ottiptv.cc/yy/1356261006
+ 动物宝宝大盘点-大波可爱动物来袭,https://mursor.ottiptv.cc/yy/1382736723
+ 缥缈【国外热门电影】,https://mursor.ottiptv.cc/yy/1509338836
+ 捉妖战记：江湖除魔,https://mursor.ottiptv.cc/yy/1382736865
+ 锦衣卫之残阳如血-血色使命,https://mursor.ottiptv.cc/yy/1382736882
+ 和你不见不散,https://mursor.ottiptv.cc/yy/1355635293
+ 不要先生，好的女士,https://mursor.ottiptv.cc/yy/1382745181
+ 贫民窟的百万富翁,https://mursor.ottiptv.cc/yy/1382735561
+ 电波传情-生死密电,https://mursor.ottiptv.cc/yy/1382735571
+ 不速来客-意外纷争,https://mursor.ottiptv.cc/yy/1382735627
+ 孔子：圣人传记,https://mursor.ottiptv.cc/yy/1354932365
+ 穿越大吉岭-三个男人的心灵之旅,https://mursor.ottiptv.cc/yy/1382749950
+ 爱情不NG：剧组情缘,https://mursor.ottiptv.cc/yy/1382749888
+ 澡堂也疯狂-笑料百出,https://mursor.ottiptv.cc/yy/1354936169
+ 漫才合集-轻松一笑,https://mursor.ottiptv.cc/yy/1382745099
+ 笑中带泪-开心鬼上身,https://mursor.ottiptv.cc/yy/1382736844
+ 你看与不看我都在,https://mursor.ottiptv.cc/yy/1353422557
+ 甜甜正在直播,https://mursor.ottiptv.cc/yy/1355119704
